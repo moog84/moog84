@@ -10,5 +10,6 @@ html
 javascript
 sql
 php
+git (obviously!)
 
 this is a draft..
